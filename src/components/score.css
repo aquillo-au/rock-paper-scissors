@@ -1,0 +1,23 @@
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+  position: absolute;
+  top: 11%;
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+.whiteBox {
+  background-color: azure;
+  color: hsl(229, 64%, 46%);
+  font-weight: 600;
+  width: 125px;
+}
+
+.logobox {
+ position: relative;
+}

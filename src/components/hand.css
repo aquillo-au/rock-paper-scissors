@@ -1,0 +1,22 @@
+.hand {
+  height: 20vmin;
+  margin: 25px;
+  border-radius: 20%;
+  border-style: solid;
+  border-width: thick;
+  background-color: azure;
+  padding: 20px 20px;
+  box-shadow: inset 0px 5px 6px rgba(0,0,0,0.75);
+}
+
+.scissors {
+  border-color: hsl(40, 84%, 53%);
+}
+
+.rock {
+  border-color: hsl(349, 70%, 56%);
+}
+
+.paper {
+  border-color: hsl(230, 89%, 65%);
+}
